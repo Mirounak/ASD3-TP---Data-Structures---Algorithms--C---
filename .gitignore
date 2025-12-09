@@ -1,0 +1,13 @@
+# Executables
+*.exe
+
+# VS Code temp
+.vscode/
+tempCodeRunnerFile*
+
+# Output files
+*.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
